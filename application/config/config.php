@@ -25,13 +25,13 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 date_default_timezone_set('Asia/Kolkata');
 
-// if(strpos($_SERVER['SERVER_NAME'],"localhost")===false)
-// {
-// 	$config['base_url'] = 'https://wbjrsfoundation.org/';
-// } else {
-// 	$config['base_url'] = 'http://localhost/wbjrs/';
-// }
-$config['base_url'] = 'http://localhost/wbjrs/';
+if(strpos($_SERVER['SERVER_NAME'],"localhost")===false)
+{
+	$config['base_url'] = 'https://wbjrsfoundation.org/';
+} else {
+	$config['base_url'] = 'http://localhost/wbjrs/';
+}
+// $config['base_url'] = 'http://localhost/wbjrs/';
 /*
 |--------------------------------------------------------------------------
 | Index File

@@ -1,0 +1,69 @@
+<?php
+include 'include/header_other.php';
+?>
+<center></center>
+<section class="page-header @@extraClassName" data-jarallax data-speed="0.3" data-imgPosition="50% -100%">
+    <div class="page-header__bg jarallax-img"></div><!-- /.page-header-bg -->
+    <div class="page-header__overlay"></div><!-- /.page-header-overlay -->
+    <div class="container text-center">
+        <h2 class="page-header__title">Our Services</h2><!-- /.page-title -->
+        <ul class="page-header__breadcrumb list-unstyled">
+            <li><a href="<?php echo base_url()?>">Home</a></li>
+            <li><span>Our Services</span></li>
+        </ul><!-- /.page-breadcrumb list-unstyled -->
+    </div><!-- /.container -->
+</section><!-- /.page-header -->
+
+<!-- About Start -->
+<section class="about-three">
+            <div class="container">
+                <div class="row">
+                    <div class="col-xl-6 wow fadeInLeft" data-wow-delay="100ms">
+                        <div class="about-three__content"><!-- about content start-->
+                            <div class="section-title">
+                                
+                                <h2 class="section-title__title">Our Services</h2>
+                          </div><!-- section-<img src="<?php echo base_url()?>assets/front/images/resources/download.png" alt="eduact" height="80">title -->
+                            <p class="about-three__content__text">
+                           
+                           
+                           <!-------------- <h3>Overview</h3>
+GLOBAL HIPPO ASSOCIATION is organising 11th International English Language Olympiad. The Hippo International English Language Olympiad is available to students in grades 2 to 12. Students can register for this exam either as an individual or through their school.</p>
+<p class="about-three__content__text">
+<h3>Objectives</h3>
+The Our Services is an international competition that motivates teachers to cooperate, promotes the English language, and challenges students all around the world to demonstrate their proficiency in the language. The Olympiad promotes the growth of a common sense of identity and integration and acts as a role model for young people living in together as one community. The main goal is to create goodwill, global awareness, and a healthy sense of rivalry among young people from around the world who are interested in learning the English language. In addition, by competing in such an Olympiad, students get the opportunity to compare their English proficiency to international practices and become familiar with the concept of examinations.
+<br><br>
+<a href="<?php echo base_url()?>assets/front/images/resources/InfopackDHippo-2023-24.pdf"><img src="<?php echo base_url()?>assets/front/images/resources/download.png" alt="eduact" height="80"></a>
+
+
+</p>                            
+                        </div><!-- about content end -->
+                    </div>
+                    <div class="col-xl-6 wow fadeInRight" data-wow-delay="100ms">
+                        <div class="about-three__thumb"><!-- about thumb start -->
+                        <img src="<?php echo base_url()?>assets/front/images/service/our_services.png" alt="eduact" height="800" width="1024">
+                            <div class="about-three__thumb__one eduact-tilt" data-tilt-options='{ "glare": false, "maxGlare": 0, "maxTilt": 2, "speed": 700, "scale": 1 }'>
+                               <!-- <img src="<?php echo base_url()?>assets/front/images/resources/Hippo-english-vector.png" alt="eduact">-->
+                               
+                            </div><!-- /.about-thumb-one -->
+                            <div class="about-three__thumb__shape-one"></div><!-- /.about-shape-one -->
+                            <div class="about-three__thumb__shape-two"></div><!-- /.about-shape-two -->
+                            <div class="about-three__thumb__shape-three"><span></span><span></span><span></span><span></span><span></span></div><!-- /.about-shape-three -->
+                            <div class="about-three__thumb__shape-four"><img src="<?php echo base_url()?>assets/front/images/shapes/about-3-shape-1.png" alt="eduact" /></div><!-- /.about-shape-four -->
+                            <div class="about-three__thumb__shape-five"><span></span><span></span><span></span><span></span><span></span></div><!-- /.about-shape-five -->
+                            <div class="about-three__thumb__shape-six"><span></span><span></span><span></span><span></span><span></span></div><!-- /.about-shape-six -->
+                            <div class="about-three__thumb__shape-seven"></div><!-- /.about-shape-seven -->
+                        </div><!-- about thumb end -->
+                    </div>
+                </div>
+            </div>
+            
+           
+        </section>
+        <!-- About End -->
+
+</cnter>
+
+<?php
+include 'include/footer.php';
+?>

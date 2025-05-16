@@ -11,14 +11,16 @@
                         <li><a href="<?php echo base_url()?>">Home</a></li>
                            
                             <li class="dropdown">
-                                <a href="#">About Us</a>
+                                <a href="#">Company</a>
                                 <ul>
                                     <li><a href="<?php echo base_url('about')?>">About</a></li>
                                     <li><a href="<?php echo base_url('mission_vision')?>">Mission & Vision</a></li>
+                                    <li><a href="<?php echo base_url('gallery_album')?>">Gallary</a></li> 
+                                    <li><a href="<?php echo base_url('bulletins')?>">News Blog</a></li>
                                     <li><a href="<?php echo base_url('aim')?>">Aim</a></li>
                                     <li><a href="<?php echo base_url('services_page')?>">Our Services</a></li>
                                     <li><a href="<?php echo base_url('accreditation')?>">Accreditation</a></li>
-                                                <li><a href="<?php echo base_url('appreciations')?>">Appreciations</a></li>
+                                    <li><a href="<?php echo base_url('appreciations')?>">Appreciations</a></li>
                                     <li><a href="<?php echo base_url('authorization')?>">Authorization</a></li>
                                     <li><a href="<?php echo base_url('our_govt_pledge')?>">Our Govt Pledge</a></li>
                                     <li><a href="<?php echo base_url('banking_partner')?>">Banking Partner</a></li>
@@ -60,10 +62,8 @@
                                 </ul>
                                 </li>
                             <li><a href="<?php echo base_url('blogs')?>">Blog</a></li> 
-                            <li><a href="<?php echo base_url('gallery_album')?>">Gallary</a></li> 
                             <li><a href="<?php echo base_url('career')?>">Career</a></li>
                             <li><a href="<?php echo base_url('certificate')?>">Certificate</a></li>
-                            <li><a href="<?php echo base_url('bulletins')?>">News Blog</a></li>
                              <!---<li><a href="<?php echo base_url('terms_conditions')?>">T&C</a></li>--->
                             <li><a href="<?php echo base_url('contact')?>">Contact</a></li>
                         </ul>

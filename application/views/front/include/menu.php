@@ -13,8 +13,8 @@
                             <li class="dropdown">
                                 <a href="#">Company</a>
                                 <ul>
-                                    <li><a href="<?php echo base_url('notice_board')?>">Notice Board</a></li>
                                     <li><a href="<?php echo base_url('about')?>">About</a></li>
+                                    <li><a href="<?php echo base_url('notice_board')?>">Notice Board</a></li>
                                     <li><a href="<?php echo base_url('mission_vision')?>">Mission & Vision</a></li>
                                     <li><a href="<?php echo base_url('gallery_album')?>">Gallary</a></li> 
                                     <li><a href="<?php echo base_url('bulletins')?>">News Blog</a></li>
@@ -27,7 +27,6 @@
                                     <li><a href="<?php echo base_url('banking_partner')?>">Banking Partner</a></li>
                                     <li><a href="<?php echo base_url('media_partner')?>">Media Partner</a></li>
                                    <li><a href="<?php echo base_url('info_bro')?>">Brochure</a></li>
-                                   <li><a href="<?php echo base_url('grievances_cell')?>">Grievances Cell</a></li>
                                 </ul>
                             </li>
                            
@@ -86,7 +85,7 @@
                             <!-- For More Information <font size=6pt>Call</font>
                             <a href="tel:+03379609224">033 79609224</a>--> 
                              <!--<span class="fa fa-archive"></span>--->
-                             <font color=orange size=4><b><a href="" data-toggle="modal" data-target="#myModal-enquire">Book Demo Class</a></b></font>
+                             <font color=orange size=4><b><a href="" data-toggle="modal" data-target="#myModal-enquire">Book Demo Class</a></b></font><a href="<?php echo base_url('grievances_cell')?>"><font color=cyan size=-1>Grievances Cell</font></a>
                         </div>
                         <!-- /.info --> 
                     </div><!-- /.main-menu__right -->

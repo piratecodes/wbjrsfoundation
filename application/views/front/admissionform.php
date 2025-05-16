@@ -1,4 +1,4 @@
-<?
+<?php
 include 'include/header_other.php';
 ?>
 <section class="page-header @@extraClassName" data-jarallax data-speed="0.3" data-imgPosition="50% -100%">
@@ -219,6 +219,6 @@ include 'include/header_other.php';
         border-radius: 4px;
     }
 </style>
-<?
+<?php
 include 'include/footer.php';
 ?>

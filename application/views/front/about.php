@@ -1,4 +1,4 @@
-<?
+<?php
 include 'include/header_other.php';
 ?>
 
@@ -430,7 +430,7 @@ include 'include/header_other.php';
 <!-- Testimonial End -->
 <!-- <div class='sk-ww-youtube-channel-videos' data-embed-id='25417527'></div>
 <script src='https://widgets.sociablekit.com/youtube-channel-videos/widget.js' async defer></script> -->        
-<?
+<?php
 include 'include/footer.php';
 ?>
 

@@ -1,4 +1,4 @@
-<?
+<?php
 include 'include/header_other.php';
 ?>
 
@@ -28,6 +28,6 @@ include 'include/header_other.php';
 
 
 
-<?
+<?php
 include 'include/footer.php';
 ?>

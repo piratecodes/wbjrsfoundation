@@ -1,4 +1,4 @@
-<?
+<?php
 include 'include/header_other.php';
 ?>
 
@@ -157,6 +157,6 @@ include 'include/header_other.php';
     }
 </style>
 
-<?
+<?php
 include 'include/footer.php';
 ?>
